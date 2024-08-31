@@ -24,10 +24,6 @@ pip install turtle
 
 1. Clone this repository or download the files.
 2. Run the `main.py` file to start the game.
-3. Use the following keys to control the paddles:
-   - Player 1: `W` (up), `S` (down)
-   - Player 2: `Up Arrow` (up), `Down Arrow` (down)
-4. The game continues until one player misses the ball, scoring a point for the opponent.
 
 ```bash
 python main.py
